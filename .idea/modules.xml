@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tumor/TumorTesting/TumorTest-common/TumorTest-common.iml" filepath="$PROJECT_DIR$/Tumor/TumorTesting/TumorTest-common/TumorTest-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tumor/TumorTesting/TumorTest-pojo/TumorTest-pojo.iml" filepath="$PROJECT_DIR$/Tumor/TumorTesting/TumorTest-pojo/TumorTest-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tumor/TumorTesting/TumorTest-server/TumorTest-server.iml" filepath="$PROJECT_DIR$/Tumor/TumorTesting/TumorTest-server/TumorTest-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tumor/TumorTesting/TumorTesting.iml" filepath="$PROJECT_DIR$/Tumor/TumorTesting/TumorTesting.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/new.iml" filepath="$PROJECT_DIR$/.idea/new.iml" />
     </modules>
   </component>
